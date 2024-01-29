@@ -8,7 +8,6 @@
 <h5> 📫 email me at eyopromise56@gmail.com</h5>
 <h6>😄 Pronouns: she/her</h6>
 <h7> ⚡ Fun fact : I am funny and i love eating</h7>
-<p>Smartpromise1/Smartpromise1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes</p>
+<p>Smartpromise1/Smartpromise1 is a ✨ special ✨</p>
 </body>
 </html>
